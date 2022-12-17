@@ -10,6 +10,7 @@
   },
   "devDependencies": {
     "@mscdex/eslint-config": "^1.1.0",
+    "node-gyp": "^9.3.0",
     "eslint": "^7.0.0"
   },
   "scripts": {
